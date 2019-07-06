@@ -1,10 +1,11 @@
 h1 {
-  color: purple;
+  color: black;
 }
 p{
   font-style: oblique;
   font-family: sans-serif;
+
 }
 body{
-  background-color: pink;
+  background-color:white;
 }
